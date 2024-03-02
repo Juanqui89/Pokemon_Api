@@ -1,30 +1,11 @@
-# React + TypeScript + Vite
+¡Bienvenido a Pokemon_API! Este emocionante proyecto combina tecnologías de última generación como HTML, CSS, React, TypeScript y el API de Pokémon, aprovechando además la potencia y versatilidad de Bootstrap. Esta fusión de tecnologías tiene como objetivo proporcionar una experiencia interactiva y educativa para los amantes de los Pokémon, destacando tanto la funcionalidad como el diseño atractivo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+La interfaz de usuario, diseñada con Bootstrap, garantiza una presentación visualmente agradable y fácil de usar. Bootstrap ofrece componentes preestablecidos que no solo aseguran una experiencia de usuario consistente, sino que también facilitan el desarrollo ágil y responsivo. La flexibilidad de Bootstrap permite adaptar la interfaz a diferentes tamaños de pantalla, asegurando una experiencia óptima tanto en dispositivos de escritorio como móviles.
 
-Currently, two official plugins are available:
+React, como biblioteca principal, se integra perfectamente con Bootstrap para construir una interfaz de usuario eficiente y dinámica. TypeScript complementa este conjunto tecnológico, mejorando la calidad del código y facilitando el mantenimiento a largo plazo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La conexión con el API de Pokémon se realiza de manera eficiente, permitiendo obtener datos actualizados y detallados sobre cada Pokémon, desde estadísticas hasta habilidades. Estos datos se presentan de manera elegante, aprovechando las capacidades de diseño de Bootstrap para ofrecer una experiencia de usuario inmersiva.
 
-## Expanding the ESLint configuration
+Para comenzar a explorar este proyecto, simplemente clona el repositorio, instala las dependencias, obtén una clave de API de Pokémon y ejecuta el proyecto. Las instrucciones detalladas se encuentran en la sección de "Instrucciones de Uso". Anima a la comunidad a contribuir al proyecto mediante la creación de pull requests para solucionar problemas o agregar nuevas características.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+En resumen, Pokemon_API es una amalgama de tecnologías modernas, con Bootstrap desempeñando un papel crucial en la creación de una interfaz visualmente atractiva y fácil de usar. Agradecemos a la comunidad de Pokémon por su apoyo continuo y a los desarrolladores de la API de Pokémon por proporcionar datos valiosos que hacen posible este proyecto. ¡Disfruta explorando el maravilloso mundo de los Pokémon con Pokemon_API y su toque distintivo de Bootstrap!
